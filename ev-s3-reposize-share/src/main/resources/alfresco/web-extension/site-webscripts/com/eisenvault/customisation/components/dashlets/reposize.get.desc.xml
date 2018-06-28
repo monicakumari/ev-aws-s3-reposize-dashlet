@@ -1,0 +1,6 @@
+<webscript>
+    <shortname>Repository Size</shortname>
+    <description>Dashlet that displays the size of the EisenVault Repository</description>
+    <family>dashlet</family>
+    <url>/eisenvault/components/dashlets/reposize</url>
+</webscript>

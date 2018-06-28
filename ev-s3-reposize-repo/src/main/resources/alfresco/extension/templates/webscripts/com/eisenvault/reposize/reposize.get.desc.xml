@@ -1,0 +1,8 @@
+<webscript>
+	<shortname>AWS S3 Repo Size</shortname>
+	<description>Calculates the repository AWS S3 Blob disk usage.</description>
+	<url>/reposize</url>
+	<authentication>user</authentication>
+	<format default="json" />
+	<transaction>none</transaction>
+</webscript>
